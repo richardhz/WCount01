@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WCount01": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\users\\richa\\ebook.txt"
+    }
+  }
+}
